@@ -1,3 +1,5 @@
+My projects and *featured contributions*:
+
 <table>
   <tr>
     <th width="500px">Command line apps</th>
@@ -6,16 +8,34 @@
   <tr>
     <td>
       <ul>
-        <li>track</li>
-        <li>dirstat</li>
-        <li>xwrd</li>
+        <li>
+          <a href="https://github.com/mlange-42/track">track</a> &mdash; 
+          Personal (work) time tracking
+        </li>
+        <li>
+          <a href="https://github.com/mlange-42/dirstat">dirstat</a> &mdash; 
+          Analyze and visualize disk usage 
+        </li>
+        <li>
+          <a href="https://github.com/mlange-42/xwrd">xwrd</a> &mdash; 
+          Anagrams and word matching tool
+        </li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>git-graph</li>
-        <li>git-igitt</li>
-        <li>yarner</li>
+        <li>
+          <a href="https://github.com/mlange-42/git-graph">git-graph</a> &mdash; 
+          Clear git graphs!
+        </li>
+        <li>
+          <a href="https://github.com/mlange-42/git-igitt">git-igitt</a> &mdash; 
+          Interactive version of <a href="https://github.com/mlange-42/git-graph">git-graph</a>
+        </li>
+        <li>
+          <a href="https://github.com/mlange-42/yarner">yarner</a> &mdash; 
+          Literate Programming in Markdown
+        </li>
       </ul>
     </td>
   </tr>
@@ -29,14 +49,30 @@
   <tr>
     <td>
       <ul>
-        <li>finam</li>
-        <li>rs-ecs</li>
+        <li>
+          <a href="https://github.com/finam-ufz/finam"><i>finam</i></a> &mdash; 
+          Python model coupling framework
+        </li>
+        <li>
+          <a href="https://github.com/adamreichold/rs-ecs"><i>rs-ecs</i></a> &mdash; 
+          Rust entity component system 
+        </li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>planetary-defense</li>
-        <li>graviton</li>
+        <li>
+          <a href="https://github.com/CleverRaven/Cataclysm-DDA"><i>Cataclysm-DDA</i></a> &mdash; 
+          Post-apocalyptic survival game
+        </li>
+        <li>
+          <a href="https://github.com/mlange-42/planetary-defense">planetary-defense</a> &mdash; 
+          Colonize a planet
+        </li>
+        <li>
+          <a href="https://github.com/mlange-42/Graviton">Graviton</a>
+          Puzzle with unique gravity mechanics
+        </li>
       </ul>
     </td>
   </tr>
