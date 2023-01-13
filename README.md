@@ -32,7 +32,7 @@ My projects and *featured contributions*:
   </tr>
   <tr>
     <td>
-          <a href="https://github.com/finam-ufz/finam"><i>finam</i></a> &mdash; 
+          <a href="https://github.com/finam-ufz/finam"><i>Finam</i></a> &mdash; 
           Python model coupling framework<br/>
           <a href="https://github.com/adamreichold/rs-ecs"><i>rs-ecs</i></a> &mdash; 
           Rust entity component system<br/><br/>
@@ -40,9 +40,9 @@ My projects and *featured contributions*:
     <td>
           <a href="https://github.com/CleverRaven/Cataclysm-DDA"><i>Cataclysm-DDA</i></a> &mdash; 
           Post-apocalyptic survival game<br/>
-          <a href="https://github.com/mlange-42/planetary-defense">planetary-defense</a> &mdash; 
+          <a href="https://github.com/mlange-42/planetary-defense">Planetary Defense</a> &mdash; 
           Colonize a planet<br/>
-          <a href="https://github.com/mlange-42/Graviton">Graviton</a>
+          <a href="https://github.com/mlange-42/Graviton">Graviton</a> &mdash; 
           Puzzle with unique gravity mechanics
     </td>
   </tr>
