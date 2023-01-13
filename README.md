@@ -16,9 +16,9 @@ My projects and *featured contributions*:
     </td>
     <td>
           <a href="https://github.com/mlange-42/git-graph">git-graph</a> &mdash; 
-          Clear git graphs!<br/>
+          Clear Git graphs. See for yourself!<br/>
           <a href="https://github.com/mlange-42/git-igitt">git-igitt</a> &mdash; 
-          Interactive version of <a href="https://github.com/mlange-42/git-graph">git-graph</a><br/>
+          Interactive TUI version of <a href="https://github.com/mlange-42/git-graph">git-graph</a><br/>
           <a href="https://github.com/mlange-42/yarner">yarner</a> &mdash; 
           Literate Programming in Markdown
     </td>
@@ -41,7 +41,7 @@ My projects and *featured contributions*:
           <a href="https://github.com/CleverRaven/Cataclysm-DDA"><i>Cataclysm-DDA</i></a> &mdash; 
           Post-apocalyptic survival game<br/>
           <a href="https://github.com/mlange-42/planetary-defense">Planetary Defense</a> &mdash; 
-          Colonize a planet<br/>
+          Colonize and defend a planet<br/>
           <a href="https://github.com/mlange-42/Graviton">Graviton</a> &mdash; 
           Puzzle with unique gravity mechanics
     </td>
