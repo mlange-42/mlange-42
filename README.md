@@ -12,7 +12,9 @@ My projects and *featured contributions*:
           <a href="https://github.com/mlange-42/dirstat">dirstat</a> &mdash; 
           Analyze and visualize disk usage <br/>
           <a href="https://github.com/mlange-42/xwrd">xwrd</a> &mdash; 
-          Anagrams and word matching tool
+          Anagrams and word matching tool<br/>
+          <a href="https://github.com/mlange-42/chrono-photo">chrono-photo</a> &mdash; 
+          Chrono-photography tool
     </td>
     <td>
           <a href="https://github.com/mlange-42/git-graph">git-graph</a> &mdash; 
@@ -20,7 +22,7 @@ My projects and *featured contributions*:
           <a href="https://github.com/mlange-42/git-igitt">git-igitt</a> &mdash; 
           Interactive TUI version of <a href="https://github.com/mlange-42/git-graph">git-graph</a><br/>
           <a href="https://github.com/mlange-42/yarner">yarner</a> &mdash; 
-          Literate Programming in Markdown
+          Literate Programming in Markdown<br/><br/>
     </td>
   </tr>
 </table>
