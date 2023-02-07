@@ -38,7 +38,7 @@ My projects and *featured contributions*:
           Python model coupling framework<br/>
           <a href="https://github.com/adamreichold/rs-ecs"><i>rs-ecs</i></a> &mdash; 
           Rust entity component system<br/>
-          <a href="https://github.com/mlange-42/arche">arche</a> &mdash; 
+          <a href="https://github.com/mlange-42/arche">Arche</a> &mdash; 
           Go entity component system; in progress<br/><br/>
     </td>
     <td>
