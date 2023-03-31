@@ -34,12 +34,12 @@ My projects and *featured contributions*:
   </tr>
   <tr>
     <td>
+          <a href="https://github.com/mlange-42/arche">Arche</a> &mdash; 
+          Go entity component system<br/>
           <a href="https://github.com/finam-ufz/finam"><i>Finam</i></a> &mdash; 
           Python model coupling framework<br/>
           <a href="https://github.com/adamreichold/rs-ecs"><i>rs-ecs</i></a> &mdash; 
           Rust entity component system<br/>
-          <a href="https://github.com/mlange-42/arche">Arche</a> &mdash; 
-          Go entity component system<br/><br/>
     </td>
     <td>
           <a href="https://github.com/CleverRaven/Cataclysm-DDA"><i>Cataclysm-DDA</i></a> &mdash; 
