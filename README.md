@@ -42,6 +42,8 @@ My projects and *featured contributions*:
           Chrono-photography tool<br/>
     </td>
     <td>
+          <a href="https://github.com/mlange-42/tiny-world">Tiny World</a> &mdash; 
+          Tiny, slow-paced world building game<br/>
           <a href="https://github.com/CleverRaven/Cataclysm-DDA"><i>Cataclysm-DDA</i></a> &mdash; 
           Post-apocalyptic survival game<br/>
           <a href="https://github.com/mlange-42/planetary-defense">Planetary Defense</a> &mdash; 
