@@ -49,7 +49,7 @@ My projects and *featured contributions*:
           <a href="https://github.com/mlange-42/planetary-defense">Planetary Defense</a> &mdash; 
           Colonize and defend a planet<br/>
           <a href="https://github.com/mlange-42/Graviton">Graviton</a> &mdash; 
-          Puzzle with unique gravity mechanics<br/><br/>
+          Puzzle with unique gravity mechanics<br/>
     </td>
   </tr>
 </table>
