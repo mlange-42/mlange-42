@@ -13,6 +13,8 @@ My projects and *featured contributions*:
           Python model coupling framework<br/>
           <a href="https://github.com/adamreichold/rs-ecs"><i>rs-ecs</i></a> &mdash; 
           Rust entity component system<br/>
+          <a href="https://github.com/mlange-42/beecs">beecs</a> &mdash; 
+          BEEHAVE honeybee model with Go and ECS<br/>
     </td>
     <td>
           <a href="https://github.com/mlange-42/git-graph">git-graph</a> &mdash; 
@@ -21,6 +23,7 @@ My projects and *featured contributions*:
           Interactive TUI version of <a href="https://github.com/mlange-42/git-graph">git-graph</a><br/>
           <a href="https://github.com/mlange-42/yarner">yarner</a> &mdash; 
           Literate Programming in Markdown<br/>
+          <br/>
     </td>
   </tr>
 </table>
@@ -32,10 +35,14 @@ My projects and *featured contributions*:
   </tr>
   <tr>
     <td>
+          <a href="https://github.com/mlange-42/tom">Tom</a> &mdash; 
+          Terminal app for Open-Meteo forecasts<br/>
+          <a href="https://github.com/mlange-42/bbn">BBN</a> &mdash; 
+          Bayesian Belief Networks TUI app<br/>
+          <a href="https://github.com/mlange-42/dirstat">dirstat</a> &mdash; 
+          Analyze and visualize disk usage<br/>
           <a href="https://github.com/mlange-42/track">track</a> &mdash; 
           Personal (work) time tracking<br/>
-          <a href="https://github.com/mlange-42/dirstat">dirstat</a> &mdash; 
-          Analyze and visualize disk usage <br/>
           <a href="https://github.com/mlange-42/xwrd">xwrd</a> &mdash; 
           Anagrams and word matching tool<br/>
           <a href="https://github.com/mlange-42/chrono-photo">chrono-photo</a> &mdash; 
@@ -50,6 +57,8 @@ My projects and *featured contributions*:
           Colonize and defend a planet<br/>
           <a href="https://github.com/mlange-42/Graviton">Graviton</a> &mdash; 
           Puzzle with unique gravity mechanics<br/>
+          <br/>
+          <br/>
     </td>
   </tr>
 </table>
