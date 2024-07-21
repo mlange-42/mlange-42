@@ -37,8 +37,10 @@ My projects and *featured contributions*:
     <td>
           <a href="https://github.com/mlange-42/tom">Tom</a> &mdash; 
           Terminal app for Open-Meteo forecasts<br/>
-          <a href="https://github.com/mlange-42/bbn">BBN</a> &mdash; 
+          <a href="https://github.com/mlange-42/bbn">bbn</a> &mdash; 
           Bayesian Belief Networks TUI app<br/>
+          <a href="https://github.com/mlange-42/som">som</a> &mdash; 
+          Self-organizing Maps CLI app<br/>
           <a href="https://github.com/mlange-42/dirstat">dirstat</a> &mdash; 
           Analyze and visualize disk usage<br/>
           <a href="https://github.com/mlange-42/track">track</a> &mdash; 
@@ -57,6 +59,7 @@ My projects and *featured contributions*:
           Colonize and defend a planet<br/>
           <a href="https://github.com/mlange-42/Graviton">Graviton</a> &mdash; 
           Puzzle with unique gravity mechanics<br/>
+          <br/>
           <br/>
           <br/>
     </td>
