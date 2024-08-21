@@ -65,3 +65,5 @@ My projects and *featured contributions*:
     </td>
   </tr>
 </table>
+
+![mlange-42's Github stats](https://github-readme-stats.vercel.app/api?username=mlange-42&show_icons=true&theme=dark)
