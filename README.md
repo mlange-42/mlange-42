@@ -21,6 +21,8 @@ My projects and *featured contributions*:
           Clear Git graphs. See for yourself!<br/>
           <a href="https://github.com/mlange-42/git-igitt">git-igitt</a> &mdash; 
           Interactive TUI version of <a href="https://github.com/mlange-42/git-graph">git-graph</a><br/>
+          <a href="https://github.com/mlange-42/modo">modo</a> &mdash; 
+          Documentation generator for <a href="https://www.modular.com/mojo">Mojo</a><br/>
           <a href="https://github.com/mlange-42/yarner">yarner</a> &mdash; 
           Literate Programming in Markdown<br/>
           <br/>
