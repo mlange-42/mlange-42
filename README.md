@@ -25,7 +25,6 @@ My projects and *featured contributions*:
           Documentation generator for <a href="https://www.modular.com/mojo">Mojo</a><br/>
           <a href="https://github.com/mlange-42/yarner">yarner</a> &mdash; 
           Literate Programming in Markdown<br/>
-          <br/>
     </td>
   </tr>
 </table>
