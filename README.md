@@ -11,6 +11,8 @@ My projects and *featured contributions*:
           Go entity component system<br/>
           <a href="https://github.com/finam-ufz/finam"><i>Finam</i></a> &mdash; 
           Python model coupling framework<br/>
+          <a href="https://github.com/samufi/larecs"><i>Larecs</i></a> &mdash; 
+          Mojo entity component system<br/>
           <a href="https://github.com/adamreichold/rs-ecs"><i>rs-ecs</i></a> &mdash; 
           Rust entity component system<br/>
           <a href="https://github.com/mlange-42/beecs">beecs</a> &mdash; 
@@ -25,6 +27,7 @@ My projects and *featured contributions*:
           Documentation generator for <a href="https://www.modular.com/mojo">Mojo</a><br/>
           <a href="https://github.com/mlange-42/yarner">yarner</a> &mdash; 
           Literate Programming in Markdown<br/>
+          <br/>
     </td>
   </tr>
 </table>
