@@ -9,6 +9,8 @@ My projects and *featured contributions*:
     <td>
           <a href="https://github.com/mlange-42/arche">Arche</a> &mdash; 
           Go entity component system<br/>
+          <a href="https://github.com/mlange-42/ark">Ark</a> &nbsp;&nbsp;&nbsp; &mdash;
+          Go ECS, successor of <a href="https://github.com/mlange-42/arche">Arche</a><br/>
           <a href="https://github.com/finam-ufz/finam"><i>Finam</i></a> &mdash; 
           Python model coupling framework<br/>
           <a href="https://github.com/samufi/larecs"><i>Larecs</i></a> &mdash; 
@@ -27,6 +29,7 @@ My projects and *featured contributions*:
           Documentation generator for <a href="https://www.modular.com/mojo">Mojo</a><br/>
           <a href="https://github.com/mlange-42/yarner">yarner</a> &mdash; 
           Literate Programming in Markdown<br/>
+          <br/>
           <br/>
     </td>
   </tr>
